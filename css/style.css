@@ -39,7 +39,7 @@ body{
     
 }
 p{
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 .container{
     width: var(--container-width-lg);
@@ -129,7 +129,7 @@ img{
     text-decoration: none;
     color: #fff;
     font-weight: 500px;
-    font-size: 25px;
+    font-size: 20px;
     font-family: 'EB Garamond', serif;
 
     transition: all  300ms ease;
