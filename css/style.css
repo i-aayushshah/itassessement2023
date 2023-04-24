@@ -353,12 +353,13 @@ header{
 .faq p{
     margin-top: 0.8rem;
     display: none;
+    font-size: 0.9rem;
 }
 .faq.open p{
     display: block;
 }
 .question__answer h4{
-    font-size: 1.35rem;
+    font-size: 1rem;
 }
 
 /*==============Testimonials===============*/
