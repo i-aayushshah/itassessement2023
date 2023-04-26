@@ -254,7 +254,7 @@ header{
 }
 .category:hover{
     box-shadow: 0 3rem 3rem rgba(0,0,0,0.3);
-    z-index: 1;
+    z-index: 0;
 }
 .category:nth-child(2) .category__icon{
     background: var(--color-danger);
